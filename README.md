@@ -27,7 +27,8 @@ META-INF/        → File instalasi (update-binary & updater-script)
 
 4. Reboot
 
-
+#HOSPOT VPN SHERE MODULE
+#INSTALASI MAGISK ROOT DEVICE ACCES
 
 
 ---
@@ -38,15 +39,6 @@ Setelah reboot, Magisk menjalankan service.sh
 
 Semua perintah di dalam script tersebut akan berjalan otomatis
 
-
-
----
-
-✏️ Edit Script
-
-Kamu bisa edit script setelah terpasang di:
-
-'/data/adb/modules/vpn_modified/service.sh'
 
 
 ---
