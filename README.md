@@ -1,3 +1,7 @@
+
+## HOSPOT VPN SHERE MODULE
+## INSTALASI MAGISK ROOT DEVICE ACCES
+
 VPN Modified – Magisk Module
 
 Modul Magisk ini menjalankan script otomatis setiap kali perangkat melakukan booting. Script utama berada di service.sh, yang dapat kamu modifikasi sesuai kebutuhan (misalnya untuk menjalankan perintah VPN atau service tertentu).
@@ -26,9 +30,6 @@ META-INF/        → File instalasi (update-binary & updater-script)
 
 
 4. Reboot
-
-#HOSPOT VPN SHERE MODULE
-#INSTALASI MAGISK ROOT DEVICE ACCES
 
 
 ---
